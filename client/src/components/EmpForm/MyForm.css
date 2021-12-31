@@ -1,0 +1,17 @@
+.form-style {
+  border-radius: 10px;
+  border: solid 1px rgb(59, 55, 55);
+  padding: 1.5rem;
+  margin-top: 1rem;
+  background-color: seagreen;
+}
+
+.spacing {
+  padding: 1rem;
+  color: #fff;
+  text-align: center;
+}
+
+.my-file {
+  background-color: rgb(255, 255, 0);
+}
